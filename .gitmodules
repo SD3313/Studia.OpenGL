@@ -1,3 +1,6 @@
 [submodule "Projekt-1"]
 	path = Projekt-1
 	url = https://github.com/SD3313/Projekt-1
+[submodule "Projekt-12-Swiatlo"]
+	path = Projekt-12-Swiatlo
+	url = https://github.com/SD3313/Projekt-12-Swiatlo
